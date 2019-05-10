@@ -1,4 +1,4 @@
-# ***TARIKGG | Admin Info***
+# ***Tarik.GG | Admin Info***
 
 ## **Banning**
 
