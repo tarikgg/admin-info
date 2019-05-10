@@ -9,7 +9,7 @@
  - **Video on how to ban from website [35s]** [https://youtu.be/rzubDUGmRME](https://youtu.be/rzubDUGmRME)
  - **Website (must be logged in):** [https://bans.tarik.gg](https://bans.tarik.gg/)
 
-![Example of SteamID's](https://getrekt.cc/i/QpIx5.png)
+![Example of SteamID's](imgs/steamid_example.png)
 >**You can find both the SteamID and the SteamID64 on [https://steamid.io/](https://steamid.io/) either will work if you are banning a player from the website.**
 ## **Rules/Punishments**
 | *INFRACTION* | *PUNISHMENT* |
