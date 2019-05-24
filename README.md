@@ -2,7 +2,7 @@
 
 ## **Reports**
 
- - **`Important!`** - Claim a player report by reacting with a check mark (✅) on the corresponding player report in discord. Reports are logged to the `#game-reports` channel. This lets the other admins know you are actively monitoring a reported player.
+- **`Important!`** - Claim a player report by reacting with a check mark (✅) on the corresponding player report in discord. Reports are logged to the `#game-reports` channel. This lets the other admins know you are actively monitoring a reported player.
 
 ## **Banning**
 
