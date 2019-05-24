@@ -1,5 +1,9 @@
 # ***Tarik.GG | Admin Info***
 
+## **Reports**
+
+- **`Important!`** - Claim a player report by reacting with a check mark (✅) on the corresponding player report in discord. Reports are logged to the `#game-reports` channel. This lets the other admins know you are actively monitoring a reported player.
+
 ## **Banning**
 
 **Primary Method:** Use /ban or !ban in game, must choose ban length and reason
@@ -29,13 +33,13 @@
 
 ## **Useful Chat Commands**
 
-- **`!claim` or `/claim`** - Notifies other admins in discord that you’re handling a report. Claim messages are sent in the #game-admins channel
 - **`!ban <#userid|name> <minutes|0=permanent> [reason]`** - Bans a client for a specified amount of time
 - **`!kick <#userid|name> [reason]`** - Kicks a specified client with the option to append a message
 - **`!admin`** - Displays the admin menu
 - **`!silence <target(s)>`** - Performs both a “gag” and “mute” on the target(s).
 - **`!unsilence <target(s)>`** - Performs both an “ungag” and “unmute” on the target(s).
 - **(Team Chat) `@` before message** - Sends message to admins in chat
+- **(All Chat) `@` before message** - Sends message to everyone in chat as admin
 
 ## **Additional Console Commands**
 
