@@ -23,7 +23,7 @@
 | *INFRACTION* | *PUNISHMENT* |
 |--|--|
 | **Cheating/Scripting** | Instant and permanent ban |
-| **Racism, Harassment, Racial Slurs** | 1-7 days (permanent ban if multiple offenses) |
+| **Racism, Harassment, Racial Slurs** | 1-6 months (permanent ban if multiple offenses) |
 | **Trolling/Griefing/Mic or Chat Spam** | Not to exceed a week ban |
 | **Throwing/Intentionally Losing** | 2hr - 1 day ban (admin discretion) |
 | **Ignoring Objective** | 2hr - 1 day ban (admin discretion) |
